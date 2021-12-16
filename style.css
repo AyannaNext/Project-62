@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: linear-gradient(rgba(223, 221, 114, 0.993) 20%, rgb(98, 129, 187) 80%);
+}
+img {
+    width: 350px;
+    border: solid;
+    border-width: 10px;
+    border-left-color: gold;
+    border-right-color: rgb(255, 94, 0);
+    border-top-color: rgb(230, 19, 89);
+    border-bottom-color: teal;
+}
+#ChatBot iframe {
+margin-right: 30px;
+}
